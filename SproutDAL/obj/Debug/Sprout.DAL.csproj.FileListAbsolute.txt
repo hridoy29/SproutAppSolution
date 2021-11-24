@@ -1,0 +1,2 @@
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.DAL\obj\Debug\Sprout.DAL.csprojAssemblyReference.cache
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.DAL\obj\Debug\Sprout.DAL.csproj.CoreCompileInputs.cache

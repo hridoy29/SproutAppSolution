@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75A6434F-032E-4D7B-BABB-C1D2EAE83E7D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sprout.DAL</RootNamespace>
+    <AssemblyName>Sprout.DAL</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBExecutor.cs" />
+    <Compile Include="DBUtility.cs" />
+    <Compile Include="Facade.cs" />
+    <Compile Include="Parameters.cs" />
+    <Compile Include="TakeExamDAO.cs" />
+    <Compile Include="TakeExamDetailsDAO.cs" />
+    <Compile Include="UserDAO.cs" />
+    <Compile Include="UserProfileDAO.cs" />
+    <Compile Include="UsersDAO.cs" />
+    <Compile Include="CourseDAO.cs" />
+    <Compile Include="CourseDetailsDAO.cs" />
+    <Compile Include="CourseTypeDAO.cs" />
+    <Compile Include="ExamDAO.cs" />
+    <Compile Include="ExamDetailsDAO.cs" />
+    <Compile Include="ExamTypeDAO.cs" />
+    <Compile Include="QuestionDAO.cs" />
+    <Compile Include="DbProviderHelper.cs" />
+    <Compile Include="BaseDAL.cs" />
+    <Compile Include="GenericXmlSerializer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SproutEntity\SproutEntity.csproj">
+      <Project>{caac2fc5-caa4-417c-b593-71763650c959}</Project>
+      <Name>SproutEntity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\obj\Debug\Sprout.Entity.csproj.CoreCompileInputs.cache
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\bin\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\bin\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\obj\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\obj\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\Sprout.Entity\obj\Debug\Sprout.Entity.csprojAssemblyReference.cache

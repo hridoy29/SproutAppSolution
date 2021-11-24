@@ -1,0 +1,16 @@
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csproj.CoreCompileInputs.cache
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.pdb
+F:\Sprout\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.dll
+F:\Sprout\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.pdb
+F:\Sprout\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csproj.CoreCompileInputs.cache
+F:\Sprout\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.dll
+F:\Sprout\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csproj.CoreCompileInputs.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csprojAssemblyReference.cache

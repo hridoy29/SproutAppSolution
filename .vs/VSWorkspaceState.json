@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sprout",
+    "\\SproutDAL",
+    "\\SproutEntity",
+    "\\SproutEntity\\bin",
+    "\\SproutEntity\\bin\\Release",
+    "\\SproutEntity\\obj",
+    "\\Sprout\\Areas",
+    "\\Sprout\\Areas\\HelpPage",
+    "\\Sprout\\Views",
+    "\\Sprout\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Sprout\\Views\\Web.config",
+  "PreviewInSolutionExplorer": false
+}
