@@ -25,3 +25,12 @@ D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\SproutDAL.csproj.CopyComplete
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\Sprout.DAL.dll
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\Sprout.DAL.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\bin\Release\Sprout.DAL.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\bin\Release\Sprout.DAL.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\bin\Release\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\bin\Release\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\SproutDAL.csproj.AssemblyReference.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\SproutDAL.csproj.CoreCompileInputs.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\SproutDAL.csproj.CopyComplete
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\Sprout.DAL.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutDAL\obj\Release\Sprout.DAL.pdb

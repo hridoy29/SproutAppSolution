@@ -14,3 +14,9 @@ D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.dll
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.pdb
 D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.0\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csprojAssemblyReference.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\bin\Debug\Sprout.Entity.pdb
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csproj.AssemblyReference.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\SproutEntity.csproj.CoreCompileInputs.cache
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.dll
+D:\QuadTheory\Sprout\Sprout\Version1.0.0.0.1\SproutAppSolution\SproutAppSolution\SproutEntity\obj\Debug\Sprout.Entity.pdb
